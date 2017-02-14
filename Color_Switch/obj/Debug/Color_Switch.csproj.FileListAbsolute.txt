@@ -1,0 +1,18 @@
+C:\Users\omfel\Desktop\Visual Studio Projects\Color_Switch\Color_Switch\bin\Debug\Color_Switch.exe.config
+C:\Users\omfel\Desktop\Visual Studio Projects\Color_Switch\Color_Switch\bin\Debug\Color_Switch.exe
+C:\Users\omfel\Desktop\Visual Studio Projects\Color_Switch\Color_Switch\bin\Debug\Color_Switch.pdb
+C:\Users\omfel\Desktop\Visual Studio Projects\Color_Switch\Color_Switch\obj\Debug\Color_Switch.csprojResolveAssemblyReference.cache
+C:\Users\omfel\Desktop\Visual Studio Projects\Color_Switch\Color_Switch\obj\Debug\Color_Switch.Form1.resources
+C:\Users\omfel\Desktop\Visual Studio Projects\Color_Switch\Color_Switch\obj\Debug\Color_Switch.Properties.Resources.resources
+C:\Users\omfel\Desktop\Visual Studio Projects\Color_Switch\Color_Switch\obj\Debug\Color_Switch.csproj.GenerateResource.Cache
+C:\Users\omfel\Desktop\Visual Studio Projects\Color_Switch\Color_Switch\obj\Debug\Color_Switch.exe
+C:\Users\omfel\Desktop\Visual Studio Projects\Color_Switch\Color_Switch\obj\Debug\Color_Switch.pdb
+C:\Users\User\Desktop\אנימציות יא-4\Color_Switch\Color_Switch\bin\Debug\Color_Switch.exe.config
+C:\Users\User\Desktop\אנימציות יא-4\Color_Switch\Color_Switch\obj\Debug\Color_Switch.exe
+C:\Users\User\Desktop\אנימציות יא-4\Color_Switch\Color_Switch\obj\Debug\Color_Switch.pdb
+C:\Users\User\Desktop\אנימציות יא-4\Color_Switch\Color_Switch\bin\Debug\Color_Switch.exe
+C:\Users\User\Desktop\אנימציות יא-4\Color_Switch\Color_Switch\bin\Debug\Color_Switch.pdb
+C:\Users\User\Desktop\אנימציות יא-4\Color_Switch\Color_Switch\obj\Debug\Color_Switch.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\אנימציות יא-4\Color_Switch\Color_Switch\obj\Debug\Color_Switch.Form1.resources
+C:\Users\User\Desktop\אנימציות יא-4\Color_Switch\Color_Switch\obj\Debug\Color_Switch.Properties.Resources.resources
+C:\Users\User\Desktop\אנימציות יא-4\Color_Switch\Color_Switch\obj\Debug\Color_Switch.csproj.GenerateResource.Cache
